@@ -22,12 +22,15 @@ $is_active = $linkrow['is_active'];
 $f_id = $linkrow['fanchise_id'];
 $a_id= $linkrow['a_id'];
 
-//echo $key.'<p>';
-//echo $p_id.'<p>';
-//echo $is_active.'<p>';
-//echo $f_id.'<p>';
-//echo $a_id.'<p>';
+echo $key.'<p>';
+echo $p_id.'<p>';
+echo $is_active.'<p>';
+echo $f_id.'<p>';
+echo $a_id.'<p>';
 
+
+
+echo "CHECK THIS";
 
 
 
